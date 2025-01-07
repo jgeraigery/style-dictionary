@@ -120,7 +120,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "change-case": "^4.1.2",
-    "commander": "^8.3.0",
+    "commander": "^13.0.0",
     "fs-extra": "^10.0.0",
     "glob": "^7.2.0",
     "json5": "^2.2.2",
