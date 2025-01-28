@@ -148,8 +148,8 @@
     "lint-staged": "^12.3.1",
     "node-sass": "^7.0.1",
     "standard-version": "^9.3.2",
-    "stylus": "^0.56.0",
-    "tsd": "^0.19.1",
+    "stylus": "^0.64.0",
+    "tsd": "^0.31.0",
     "yaml": "^1.10.2"
   }
 }
