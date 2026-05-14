@@ -145,7 +145,7 @@
     "jsdoc-to-markdown": "^7.1.0",
     "json5-jest": "^1.0.1",
     "less": "^4.1.2",
-    "lint-staged": "^12.3.1",
+    "lint-staged": "^17.0.0",
     "node-sass": "^7.0.1",
     "standard-version": "^9.3.2",
     "stylus": "^0.56.0",
